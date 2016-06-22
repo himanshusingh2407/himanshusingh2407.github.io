@@ -108,7 +108,7 @@ ul.navigation {
 .btn_dropdown:hover {color:#3e3e3e;}
 
 
-/* General Slides */ 
+/* General Slides */
 
 .slide{
 	background-attachment: fixed;
@@ -168,7 +168,7 @@ img.icon_img {
 }
 
 .effect_2 {
-	background:url(../images/effect_2.png) repeat left top;
+	background:url(../assets/images/effect_2.png) repeat left top;
 	position:relative;
 	top:0;
 	bottom:-57px;
@@ -176,7 +176,7 @@ img.icon_img {
 	z-index:999 !important;
 }
 
-/* ____________________________________ Slide 1 ____________________________________ */ 
+/* ____________________________________ Slide 1 ____________________________________ */
 
 .padding_slide1 {padding:241px 0 101px 0;
 }
@@ -192,7 +192,7 @@ img.icon_img {
 }
 
 #slide1{
-	background-image:url(../images/slide1_bg.jpg);
+	background-image:url(../assets/images/slide1_bg.jpg);
 	background-position:0 0 !important;
 	background-size: cover !important;
 	width:100%;
@@ -202,7 +202,7 @@ img.icon_img {
 .filtr_bg {
 	position:relative;
 	z-index:20;
-	text-align:center;	
+	text-align:center;
 }
 
 #slide1 h1 {
@@ -243,7 +243,7 @@ img.icon_img {
 .center_bord {
 	display:block;
 	margin:0 auto;
-	background:url(../images/center_bord.png) no-repeat;
+	background:url(../assets/images/center_bord.png) no-repeat;
 	height:1px;
 	width:312px;
 }
@@ -257,7 +257,7 @@ img.icon_img {
 	height:20px;
 	border:none;
 	text-transform:uppercase;
-	background:url(../images/button_down.png) no-repeat center bottom;
+	background:url(../assets/images/button_down.png) no-repeat center bottom;
 	transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-webkit-transition: all 0.2s ease-in-out;
@@ -266,10 +266,10 @@ img.icon_img {
 
 
 
-/* ____________________________________ Slide 2 ____________________________________ */ 
+/* ____________________________________ Slide 2 ____________________________________ */
 
 #slide2 {
-	background:url(../images/slide2_bg.jpg) repeat left top;
+	background:url(../assets/images/slide2_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
@@ -485,16 +485,16 @@ img.icon_img {
 
 
 
-/* ___________________________________ //Slide 2 ___________________________________ */ 
+/* ___________________________________ //Slide 2 ___________________________________ */
 
 
 
 
 
-/* ____________________________________ Slide 4 ____________________________________ */ 
+/* ____________________________________ Slide 4 ____________________________________ */
 
 #slide4 {
-	background:url(../images/slide4_bg.jpg) repeat left top;
+	background:url(../assets/images/slide4_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
@@ -641,21 +641,21 @@ img.icon_img {
 }
 /* ____________ SERVICES_BLOCK ___________ */
 
-/* ___________________________________ //Slide 4 ___________________________________ */ 
+/* ___________________________________ //Slide 4 ___________________________________ */
 
 
 
 
-/* ____________________________________ Slide 6 ____________________________________ */ 
+/* ____________________________________ Slide 6 ____________________________________ */
 
 #slide6 {
-	background:url(../images/slide6_bg.jpg) repeat left top;
+	background:url(../assets/images/slide6_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
 
 #slide6 h2 span {
-	background:url(../images/slide6_bg.jpg) repeat left top;
+	background:url(../assets/images/slide6_bg.jpg) repeat left top;
 }
 
 /* _______________ ACCORDION _______________ */
@@ -674,7 +674,7 @@ img.icon_img {
 	position:relative;
 	margin:0 0 0 127px;
 	padding:12px 0 12px 22px;
-	background:url(../images/ac_h3_span_bg.jpg) repeat-x left top #559ac3;
+	background:url(../assets/images/ac_h3_span_bg.jpg) repeat-x left top #559ac3;
 	border-right:1px solid #4b8aaf;
 	border-bottom:1px solid #4b8aaf;
 	text-align:left;
@@ -692,7 +692,7 @@ img.icon_img {
 	bottom:1px;
 	height:98%;
 	width:2px;
-	background:url(../images/left_bord_ac_title.jpg) repeat-y;
+	background:url(../assets/images/left_bord_ac_title.jpg) repeat-y;
 }
 
 .accordion .accord_cont {
@@ -721,7 +721,7 @@ img.icon_img {
 	left:57px;
 	width:69px;
 	height:47px;
-	background:url(../images/cal_icon.png) no-repeat;
+	background:url(../assets/images/cal_icon.png) no-repeat;
 }
 
 .vert_line {
@@ -730,20 +730,20 @@ img.icon_img {
 	left:70px;
 	width:1px;
 	height:96%;
-	background:url(../images/vert_line.png) repeat-y;
+	background:url(../assets/images/vert_line.png) repeat-y;
 }
 
 
 /* ______________ //ACCORDION ______________ */
 
 
-/* ___________________________________ //Slide 6 ___________________________________ */ 
+/* ___________________________________ //Slide 6 ___________________________________ */
 
 
 
-/* ____________________________________ Slide 8 ____________________________________ */ 
+/* ____________________________________ Slide 8 ____________________________________ */
 #slide8 {
-	background:url(../images/slide8_bg.jpg) repeat left top;
+	background:url(../assets/images/slide8_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
@@ -762,7 +762,7 @@ img.icon_img {
 	left:105px;
 	width:65px;
 	height:47px;
-	background:url(../images/ac_plmin_2.png) no-repeat;
+	background:url(../assets/images/ac_plmin_2.png) no-repeat;
 }
 #slide8 .vert_line {
 	position:absolute;
@@ -770,7 +770,7 @@ img.icon_img {
 	left:117px;
 	width:3px;
 	height:100%;
-	background:url(../images/vert_line_2.png) repeat-y;
+	background:url(../assets/images/vert_line_2.png) repeat-y;
 }
 #slide8 .accordion h3 span {
 	margin:0 0 0 169px;
@@ -791,9 +791,9 @@ img.icon_img {
 
 
 
-/* ____________________________________ Slide 10 ____________________________________ */ 
+/* ____________________________________ Slide 10 ____________________________________ */
 #slide10 {
-	background:url(../images/slide10_bg.jpg) repeat left top;
+	background:url(../assets/images/slide10_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
@@ -833,11 +833,11 @@ img.icon_img {
 }
 .portfolio_zoom {
 	left:63px;
-	background-image:url(../images/zoom.png);
+	background-image:url(../assets/images/zoom.png);
 }
 .portfolio_link {
 	right:56px;
-	background-image:url(../images/link.png);
+	background-image:url(../assets/images/link.png);
 	transition-delay:0.05s;
 	-o-transition-delay:0.05s;
 	-moz-transition-delay:0.05s;
@@ -892,7 +892,7 @@ img.icon_img {
 /* ____________________________________ Slide 12 ____________________________________ */
 
 #slide12 {
-	background:url(../images/slide12_bg.jpg) repeat left top;
+	background:url(../assets/images/slide12_bg.jpg) repeat left top;
 	background-position:0 0 !important;
 	width:100%;
 	padding:86px 0 69px;
@@ -937,19 +937,19 @@ img.icon_img {
 	margin:5px 7px 0;
 }
 .soc1 {
-	background:url(../images/socials.png) no-repeat;
+	background:url(../assets/images/socials.png) no-repeat;
 	background-position:0 0;
 }
 .soc2 {
-	background:url(../images/socials.png) no-repeat;
+	background:url(../assets/images/socials.png) no-repeat;
 	background-position:-48px 0;
 }
 .soc3 {
-	background:url(../images/socials.png) no-repeat;
+	background:url(../assets/images/socials.png) no-repeat;
 	background-position:-96px 0;
 }
 .soc4 {
-	background:url(../images/socials.png) no-repeat;
+	background:url(../assets/images/socials.png) no-repeat;
 	background-position:-144px 0;
 }
 .soc1:hover {
@@ -1000,21 +1000,10 @@ img.icon_img {
 	margin:0;
 	width:13px;
 	height:9px;
-	background:url(../images/back_top.png) no-repeat;
+	background:url(../assets/images/back_top.png) no-repeat;
 	text-transform:uppercase;
 	font-family: 'Lato', sans-serif;
 	font-weight:400;
 	color:#fff;
 }
 #back_top a.button:hover {text-decoration:none;}
-/* ____________ //BACK_TOP __________ */
-
-/* ___________________________________ //FOOTER ___________________________________ */
-
-
-
-
-
-
-
-
