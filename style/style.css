@@ -192,7 +192,7 @@ img.icon_img {
 }
 
 #slide1{
-	background-image:url(../assets/images/slide1_bg.jpg);
+	background:url(../assets/blkImg1.png) #757575;
 	background-position:0 0 !important;
 	background-size: cover !important;
 	width:100%;
