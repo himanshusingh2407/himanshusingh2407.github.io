@@ -764,10 +764,10 @@ img.icon_img {
 .ac_date {
   position: absolute;
   top: 12px;
-  left: 0;
+  left: -2px;
   font-family: 'Tahoma', sans-serif;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 10px;
   line-height: 20px;
   color: #797979;
 }
@@ -1159,7 +1159,7 @@ img.icon_img {
   border-radius: 5px;
   margin-left: -200px;
   position: fixed;
-  left: 50%;
+  left: 55%;
   top: -100%;
   z-index: 11;
   width: 360px;
