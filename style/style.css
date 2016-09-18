@@ -223,6 +223,13 @@ img.icon_img {
   text-align: center;
 }
 
+@media only screen and (max-width: 770px) {
+    #slide1 {
+        background: url(../assets/blkImg2.png) #757575;
+				background-position: 0 0 !important;
+			  background-size: cover !important;
+    }
+}
 .filtr_bg {
   position: relative;
   z-index: 20;
